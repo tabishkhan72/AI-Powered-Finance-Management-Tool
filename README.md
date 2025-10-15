@@ -1,6 +1,6 @@
 # AI Powered Finance Manager
 
-A simple personal finance app built with Streamlit. Upload a CSV of transactions and get automatic categorization, budgets, charts, and smart insights. Ask questions in natural language and export a cleaned CSV.
+A simple personal finance app built with Streamlit. Upload a CSV of transactions and get automatic categorization, budgets, charts, and smart insights. Ask questions in natural language and export a cleaned CSV
 
 ## Features
 
