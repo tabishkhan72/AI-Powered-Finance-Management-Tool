@@ -1,31 +1,31 @@
 # AI Powered Finance Manager
 
-A simple personal finance app built with Streamlit. Upload a CSV of transactions and get automatic categorization, budgets, charts, and smart insights. Ask questions in natural language and export a cleaned CSV
+A simple personal finance app built with Streamlit. Upload a CSV of transactions and get automatic categorization, budgets, charts, and smart insights. Ask questions in natural language and export a cleaned CSV.
 
 ## Features
 
-1. Upload a CSV with Date Description Amount
-2. Auto categorize spending and income using editable keyword rules
-3. Dashboard cards for inflow outflow monthly spend and unique merchants
-4. Charts for spend by category and a monthly trend
-5. Budgets per category with status for the current month
-6. Insights such as recurring subscriptions budget alerts and unusual spend
-7. Ask free form questions such as How much did I spend on groceries last month
-8. Fix categories in a table and download a cleaned CSV
+1. Upload a CSV with Date Description Amount.
+2. Auto categorize spending and income using editable keyword rules.
+3. Dashboard cards for inflow outflow monthly spend and unique merchants.
+4. Charts for spend by category and a monthly trend.
+5. Budgets per category with status for the current month.
+6. Insights such as recurring subscriptions budget alerts and unusual spend.
+7. Ask free form questions such as How much did I spend on groceries last month.
+8. Fix categories in a table and download a cleaned CSV.
 
 ## Quick start
 
-1. Ensure Python 3 dot 10 or newer is installed
-2. Create and activate a virtual environment if you wish
-3. Install the libraries listed in requirements txt using your preferred package manager
+1. Ensure Python 3 dot 10 or newer is installed.
+2. Create and activate a virtual environment if you wish.
+3. Install the libraries listed in requirements txt using your preferred package manager.
 4. Run the app
 
 ```bash
 streamlit run app.py
 ```
 
-5. Open the local URL that Streamlit prints
-6. Use the sample CSV in the repo to try it out
+5. Open the local URL that Streamlit prints.
+6. Use the sample CSV in the repo to try it out.
 
 ## CSV format
 
